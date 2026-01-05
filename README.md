@@ -104,8 +104,8 @@ He/Him
 
 ## ⚡ Fun fact
 
-I enjoy **building hardware that talks to software**, whether it’s a PCB defect detector or telemetry for a solar car — and I once got a **PWM handler running 260% faster** than the original implementation 😉  
-
+- I enjoy **building hardware that talks to software**, whether it’s a PCB defect detector or telemetry for a solar car — and I once got a **PWM handler running 260% faster** than the original implementation 😉  
+- I've driven a semi-truck on a race-track before! 😮
 ---
 
 > “Engineering the future, one embedded system at a time.” ⚡
