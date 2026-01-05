@@ -93,7 +93,6 @@ Git, Linux, Docker, AWS, GCP, CANalyzer, SVN, Jira, CI/CD, PostgreSQL
 
 - LinkedIn: [linkedin.com/in/joshuaabraham0](https://www.linkedin.com/in/joshuaabraham0)  
 - GitHub: [github.com/abrahamj101](https://github.com/abrahamj101)
-- Twitter: [x.com/htx_jab/](https://x.com/htx_jab/)
 
 ---
 
